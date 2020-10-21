@@ -1,8 +1,8 @@
 {
   "name": "Disney Plus Helper",
-  "version": "1.0",
-  "description": "Build an Extension!",
-  "permissions": ["activeTab"],
+  "version": "1.2",
+  "description": "Add spacebar pause and play to Disney Plus",
+  "permissions": [],
   "content_scripts": [
     {
       "matches": ["https://*.disneyplus.com/*"],
